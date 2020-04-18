@@ -1,2 +1,3 @@
-# Angular-gerenciador-de-tarefas
-Gerenciador de tarefas usando Angular / Angular To-do list
+# To-do List usando Angular
+Gerenciador de tarefas usando Angular e Bootstrap
+Praticando CRUD, rotas, serviços, injeção de dependências, testes unitários
